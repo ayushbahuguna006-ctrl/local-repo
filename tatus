@@ -1,0 +1,17 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 7e88b92..7c420cf 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -6,10 +6,6 @@[m
+     <title>My file 2</title>[m
+ </head>[m
+ <body>[m
+[31m-[m
+[31m-this is a new demography[m
+[31m-[m
+[31m-  [m
+[31m-  [m
+[32m+[m[32m    Hii![m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
